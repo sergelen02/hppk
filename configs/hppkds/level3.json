@@ -1,0 +1,10 @@
+{
+  "name": "HPPK-DS-Reference-Level-III",
+  "p": "79228162514264337593543950319",
+  "n": 1,
+  "lambda": 1,
+  "m": 1,
+  "L": 208,
+  "r_bits": 240,
+  "hash": "SHA-384"
+}
